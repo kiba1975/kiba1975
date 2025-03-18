@@ -20,4 +20,4 @@
 
 >[!NOTE]
 > Please keep in mind that I'm still a newbie in the programming world , so things might look a bit messy and broken,
-> but don't worry as I will try my best to make things better as I go :)
+> but don't worry as I will try my best to make things better as I learn :)
