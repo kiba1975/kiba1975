@@ -3,7 +3,7 @@
 
 ### 📖 I'm Currently learning...
 - **HTML** and **CSS**
-  -**SASS**
+  - **SASS**
 - **JavaScript**
 - **PHP**
   - **POO**
