@@ -10,10 +10,11 @@
 - **MySQL**
 
 ## 🧠 Knowledge in:
-+ Linux and its terminal
-+ Windows and its terminal
-+ Installing different kinds of OS
-+ Fixing different kinds of pc problems, both physical and software wise
++ Linux, Windows, Mac and their respective terminals.
++ Installation of OS.
++ Fixing different kinds of pc problems, both physical and software wise.
++ Virtualization (*OpenBox, VMware and Hyper-V*)
++ Knowledge of helpdesk monitoring apps like Zabbix, OCS and GLPI 
 
 ### 💬 Languages I speak: 
 + Spanish natively
