@@ -14,7 +14,7 @@
 + Installation of OS.
 + Fixing different kinds of pc problems, both physical and software wise.
 + Virtualization (*OpenBox, VMware and Hyper-V*)
-+ Knowledge of helpdesk monitoring apps like Zabbix, OCS and GLPI 
++ Use of helpdesk monitoring apps like Zabbix, OCS and GLPI 
 
 ### 💬 Languages I speak: 
 + Spanish natively
