@@ -6,7 +6,6 @@
   - **SASS**
 - **JavaScript**
 - **PHP**
-  - **POO**
 - **MySQL**
 
 ## 🧠 Knowledge in:
